@@ -1,0 +1,6 @@
+[project]
+name = "openenv-project"
+version = "0.1.0"
+
+[tool.openenv]
+entrypoint = "app:app"
